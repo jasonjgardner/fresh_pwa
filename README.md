@@ -1,3 +1,6 @@
+> # Don't use Fresh. Switch to [aleph.js](https://github.com/alephjs/aleph.js)
+Fresh turned into a sloppy framework. This project is no longer maintained.
+
 # Fresh PWA Plugin
 
 Usage:
